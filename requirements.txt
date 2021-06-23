@@ -1,2 +1,4 @@
 django
 django_coverage_plugin
+pytest-cov
+pytest-django
