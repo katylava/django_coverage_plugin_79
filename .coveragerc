@@ -1,0 +1,7 @@
+[run]
+omit =
+    *.txt
+    .venv/*
+plugins =
+    django_coverage_plugin
+
